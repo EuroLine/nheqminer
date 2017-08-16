@@ -31,11 +31,11 @@ typedef unsigned char uchar;
 // algorithm parameters, prefixed with W to reduce include file conflicts
 
 #ifndef WN
-#define WN	200
+#define WN	96
 #endif
 
 #ifndef WK
-#define WK	9
+#define WK	5
 #endif
 
 #define PARAMETER_N WN
